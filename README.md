@@ -21,3 +21,5 @@ Currently a **work in progress** , Capynance will offer features such as expense
 #### DEMO - work in progress
 
 ![Demo - work in progress](images/capynance-demo.png)
+
+![img](images/capy-cover-v2.png)
